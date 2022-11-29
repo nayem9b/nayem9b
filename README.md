@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md Razwan Niam</h1>
 <h3 align="center">An enthusiastic MERN developer from Bangladesh</h3>
 
+<p>
+  Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with
+  strong knowledge of JavaScript, Es6, React , Express, MongoDB. I seek out new
+  knowledge and technology and actively develop my skills.
+</p>
+
+
 - 🔭 Projects that I have recently worked [Bookify](https://bookify-a39cf.web.app)
 
 - 🌱 I’m currently learning **NextJs, TypeScript, Redux**
@@ -12,6 +19,8 @@
 - 📫 How to reach me **razwanniam1@gmail.com**
 
 - 📄 Know about my experiences [https://cutt.ly/x1Wvrnt](https://cutt.ly/x1Wvrnt)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
