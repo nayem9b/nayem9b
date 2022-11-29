@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Razwan Niam</h1>
-<h3 align="center">An enthusiastic MERN developer from Bangladesh</h3>
+<h3 align="center">An enthusiastic MERN developer from Dinajpur, Bangladesh</h3>
 
 <p>
   Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with
