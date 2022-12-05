@@ -148,14 +148,14 @@
       width="40"
       height="40" />
   </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+<!--   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
       alt="redux"
       width="40"
       height="40" />
-  </a>
-
+  </a> -->
+<!-- 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -163,7 +163,7 @@
       width="40"
       height="40" />
   </a>
-
+ -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -171,13 +171,13 @@
       width="40"
       height="40" />
   </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp"
       width="40"
       height="40" />
-  </a>
+  </a> -->
 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img
