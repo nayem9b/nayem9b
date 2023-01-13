@@ -10,7 +10,7 @@
 
 - 🔭 Projects that I have recently worked [Bookify](https://bookify-a39cf.web.app)
 
-- 🌱 I’m currently learning **NextJs, TypeScript, Redux**
+- 🌱 I’m currently learning **NextJs*
 
 - 👨‍💻 All of my projects are available at [https://github.com/nayem9b](https://github.com/nayem9b)
 
