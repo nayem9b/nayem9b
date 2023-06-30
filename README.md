@@ -215,7 +215,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=nayem9b&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=nayem9b&show_icons=true&theme=highcontrast"
     alt="nayem9b" />
 </p>
 
