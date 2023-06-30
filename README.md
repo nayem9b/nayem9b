@@ -1,11 +1,6 @@
 <h1 align="center">Hi there 😺</h1>
 <h3 align="center">I'm a Full Stack Developer who builds scalable and maintainable web applications</h3>
 
-<p>
-  Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with
-  strong knowledge of JavaScript, Es6, React , Express, MongoDB. I seek out new
-  knowledge and technology and actively develop my skills.
-</p>
 
 - 🌱 I’m currently learning _PostGre SQL_
 
