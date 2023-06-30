@@ -60,6 +60,27 @@
       width="40"
       height="40" />
   </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png"
+      alt="Next.js"
+      width="40"
+      height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
+      alt="Typescript"
+      width="40"
+      height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/redux.svg"
+      alt="Redux"
+      width="40"
+      height="40" />
+  </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
