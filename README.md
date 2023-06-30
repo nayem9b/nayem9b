@@ -119,6 +119,13 @@
       width="40"
       height="40" />
   </a>
+   <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="40"
+      height="40" />
+  </a>
   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
