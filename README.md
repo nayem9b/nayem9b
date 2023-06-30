@@ -208,7 +208,7 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nayem9b&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nayem9b&show_icons=true&locale=en&layout=compact&theme=highcontrast"
     alt="nayem9b" />
 </p>
 
