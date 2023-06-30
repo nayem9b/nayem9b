@@ -20,7 +20,7 @@
   <a href="mailto:razwanniam1@gmail.com" target="blank"
     ><img
       align="center"
-      src="https://banner2.cleanpng.com/20180718/twz/kisspng-computer-icons-stock-photography-email-clip-art-simblo-5b4faed2d78991.2976490215319487548829.jpg"
+      src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png"
       alt="Mail"
       height="30"
       width="40"
