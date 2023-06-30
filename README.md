@@ -62,7 +62,7 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png"
+      src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png"
       alt="Next.js"
       width="40"
       height="40" />
