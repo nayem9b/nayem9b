@@ -1,5 +1,5 @@
-<h1 align="center">Hi Observer</h1>
-<h3 align="center">An enthusiastic Full Stack Developer from Dinajpur, Bangladesh</h3>
+<h1 align="center">Hi there</h1>
+<h3 align="center">I'm a Full Stack Developer who builds scalable and maintainable web applications</h3>
 
 <p>
   Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with
@@ -215,7 +215,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=nayem9b&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=nayem9b&show_icons=true&theme=radical"
     alt="nayem9b" />
 </p>
 
