@@ -1,10 +1,15 @@
 <h1 align="center">Hi there 😺</h1>
 <h3 align="center">I'm a Full Stack Developer who builds scalable and maintainable web applications</h3>
 
+<p>
+  Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with
+  strong knowledge of JavaScript, Es6, React , Express, MongoDB. I seek out new
+  knowledge and technology and actively develop my skills.
+</p>
 
 - 🌱 I’m currently learning _PostGre SQL_
 
-- 💬 Ask me about **React, JavaScript, Typescript**
+- 💬 Ask me about **React, JavaScript, ES6**
 
 - 📫 Mail me at **razwanniam1@gmail.com**
 
@@ -15,7 +20,7 @@
   <a href="mailto:razwanniam1@gmail.com" target="blank"
     ><img
       align="center"
-      src="https://e7.pngegg.com/pngimages/522/873/png-clipart-black-envelope-icon-advanced-case-management-envelope-computer-icons-icon-design-envelope-mail-miscellaneous-angle.png"
+      src="https://banner2.cleanpng.com/20180718/twz/kisspng-computer-icons-stock-photography-email-clip-art-simblo-5b4faed2d78991.2976490215319487548829.jpg"
       alt="Mail"
       height="30"
       width="40"
@@ -100,14 +105,6 @@
       width="40"
       height="40" />
   </a>
-
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://static-00.iconduck.com/assets.00/react-router-icon-512x279-zswz065s.png"
-      alt="react router dom"
-      width="40"
-      height="40" />
-  </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -156,13 +153,6 @@
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
-      width="40"
-      height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
       width="40"
       height="40" />
   </a>
