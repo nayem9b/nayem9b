@@ -1,4 +1,4 @@
-<h1 align="center">Hi there</h1>
+<h1 align="center">Hi there 😺</h1>
 <h3 align="center">I'm a Full Stack Developer who builds scalable and maintainable web applications</h3>
 
 <p>
@@ -17,6 +17,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:razwanniam1@gmail.com" target="blank"
+    ><img
+      align="center"
+      src="https://e7.pngegg.com/pngimages/522/873/png-clipart-black-envelope-icon-advanced-case-management-envelope-computer-icons-icon-design-envelope-mail-miscellaneous-angle.png"
+      alt="Mail"
+      height="30"
+      width="40"
+  /></a>
     <a href="https://linkedin.com/in/the-razwan-niam" target="blank"
     ><img
       align="center"
@@ -33,15 +41,6 @@
       height="30"
       width="40"
   /></a>
-  <a href="mailto:razwanniam1@gmail.com" target="blank"
-    ><img
-      align="center"
-      src="https://e7.pngegg.com/pngimages/522/873/png-clipart-black-envelope-icon-advanced-case-management-envelope-computer-icons-icon-design-envelope-mail-miscellaneous-angle.png"
-      alt="Mail"
-      height="30"
-      width="40"
-  /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -53,6 +52,13 @@
       width="40"
       height="40" />
   </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png"
+      alt="Next.js"
+      width="40"
+      height="40" />
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -60,13 +66,7 @@
       width="40"
       height="40" />
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png"
-      alt="Next.js"
-      width="40"
-      height="40" />
-  </a>
+
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
@@ -74,20 +74,20 @@
       width="40"
       height="40" />
   </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/redux.svg"
-      alt="Redux"
-      width="40"
-      height="40" />
-  </a>
-  <a
+   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
+      width="40"
+      height="40" />
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/redux.svg"
+      alt="Redux"
       width="40"
       height="40" />
   </a>
@@ -106,13 +106,6 @@
       height="40" />
   </a>
 
-  <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40" />
-  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://static-00.iconduck.com/assets.00/react-router-icon-512x279-zswz065s.png"
@@ -149,6 +142,13 @@
       width="40"
       height="40" />
   </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png"
+      alt="postman"
+      width="40"
+      height="40" />
+  </a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.netlify.com/v3/img/components/logomark.png"
@@ -171,22 +171,6 @@
       width="40"
       height="40" />
   </a>
-<!--   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40" />
-  </a> -->
-<!-- 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40" />
-  </a>
- -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -194,14 +178,6 @@
       width="40"
       height="40" />
   </a>
-<!--   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40" />
-  </a> -->
-
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
