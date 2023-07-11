@@ -192,14 +192,14 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nayem9b&show_icons=true&locale=en&layout=compact&theme=highcontrast"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nayem9b&show_icons=true&locale=en&layout=compact&theme=highcontrast"
     alt="nayem9b" />
 </p>
 
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=nayem9b&show_icons=true&theme=highcontrast"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=nayem9b&show_icons=true&theme=highcontrast"
     alt="nayem9b" />
 </p>
 
