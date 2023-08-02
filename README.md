@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning _PostGre SQL_
 
-- 💬 Ask me about **React, JavaScript, ES6**
+- 💬 Ask me about **React, JavaScript, Typescript**
 
 - 📫 Mail me at **razwanniam1@gmail.com**
 
