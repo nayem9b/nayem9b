@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 😺</h1>
-<h3 align="center">I'm a Full Stack Developer with 2 years of industry level experience</h3>
+<h3 align="center">A Full Stack Developer with 2 years of industry level experience </h3>
 
 - 🌱 I’m currently learning _AWS, React Native, Jenkins_
 
