@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning _AWS, React Native, Jenkins_
 
-- 💬 Ask me about **React, Next.js, JavaScript, Typescript, PostgreSQL**
+- 💬 Ask me about **React, Next.js ,AWS, Docker, JavaScript, Typescript, PostgreSQL**
 
 - 📫 Mail me at **razwanniam1@gmail.com**
 
