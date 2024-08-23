@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 😺</h1>
 <h3 align="center">A Full Stack Developer with 2 years of experience </h3>
 
-- 🌱 currently learning _AWS, K8s , Jenkins_
+- 🌱 currently learning _AWS, K8s , Ansible, Jenkins_
 
 - 💬 Ask me about **React, Next.js ,AWS, Docker, JavaScript, Typescript, PostgreSQL**
 
