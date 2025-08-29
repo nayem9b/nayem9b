@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 😺</h1>
-<h3 align="center">A Full Stack Developer with 2 years of experience </h3>
+<h1 align="center">What if Full Stack + Cloud DevOps + System Design + MLOps </h1>
+<h3 align="center">A versatile software engineer skilled in Python, TypeScript, and modern frameworks like Next.js. I have hands-on experience in backend API technologies like FastAPI and GraphQL, and databases like PostgreSQL and MongoDB. I also have a strong foundation in DevOps, from implementing CI/CD with Git and Jenkins to managing infrastructure with AWS, Docker, and Kubernetes.</h3>
 
 - 🌱 currently learning _AWS, K8s , Ansible, Jenkins_
 
