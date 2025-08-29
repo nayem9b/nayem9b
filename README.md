@@ -8,7 +8,7 @@
 I’m **Razwan Niam**, a versatile engineer skilled in **Full Stack Development, Cloud, and DevOps**.  
 I thrive on building systems that scale, perform under pressure, and enable business outcomes. My expertise spans from **Python & TypeScript** to **AWS, Kubernetes, and Terraform**, combining software engineering with modern infrastructure practices for end-to-end delivery.
 
-- Currently advancing skills in **Embedded systems, MLOps, LLMO**  
+- Currently advancing skills in **Embedded systems, MLOps, LLMOps**  
 - Areas of expertise: **Next.js, FastAPI, Docker, PostgreSQL, AWS, GitHub Actions**  
 - View my [Resume](https://drive.google.com/file/d/1t0xLrT9RUPP_OCjL_f7T3BKv9gLIHGbl/view?usp=drive_link)  
 - Reach me at **razwanniam1@gmail.com**
