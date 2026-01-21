@@ -1,50 +1,61 @@
-[](https://i.imgur.com/tpSt5BW.png)
-
-<h1 align="center">Full Stack | Cloud DevOps | System Design</h1>
-
-<h3 align="center">Embedded systems to full stack applications, scaling into cloud-native DevOps</h3>
+<div align="center">
+  <img src="https://i.imgur.com/tpSt5BW.png" alt="Portfolio Banner" width="100%" />
+</div>
 
 ---
 
-### About Me
+## Full Stack | Cloud DevOps | System Design
 
-I’m **Razwan Niam**, a versatile engineer skilled in **Full Stack Development, Cloud, and DevOps**.  
-I thrive on building systems that scale, perform under pressure, and enable business outcomes. My expertise spans from **Python & TypeScript** to **AWS, Kubernetes, and Terraform**, combining software engineering with modern infrastructure practices for end-to-end delivery.
-
-- Currently advancing skills in **Embedded systems, MLOps, LLMOps**
-- Areas of expertise: **Next.js, FastAPI, Docker, PostgreSQL, AWS, GitHub Actions**
-- View my **[Resume](https://drive.google.com/file/d/1CsGnCf7d4qc3OAQj6yVZk_Aea8HEm_T_/view?usp=sharing)**
-- Reach me at **razwanniam1@gmail.com**
+Embedded systems to full-stack applications, scaling into cloud-native DevOps
 
 ---
 
-### Tech Stack
+### About
 
-**Cloud & DevOps**
+**Razwan Niam** - Full Stack Engineer specializing in Cloud Architecture and DevOps
+
+Experienced engineer building scalable systems with modern infrastructure practices. Expertise spanning full-stack development from embedded systems to cloud-native applications.
+
+**Technical Focus:**
+
+- Full Stack Development (Next.js, FastAPI, Node.js)
+- Cloud Infrastructure (AWS, Kubernetes, Terraform)
+- DevOps & CI/CD Automation
+- Microservices Architecture & Event Streaming
+
+**Current Interests:** Embedded Systems, LLMOps
+
+**Contact:** razwanniam1@gmail.com | [Resume](https://drive.google.com/file/d/1CsGnCf7d4qc3OAQj6yVZk_Aea8HEm_T_/view?usp=sharing)
+
+---
+
+## Technical Stack
+
+### Cloud & DevOps
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,azure,kubernetes,jenkins,ansible,terraform,nginx,prometheus,grafana,githubactions,gitlab,git,github" alt="Cloud & DevOps Skills"/>
 </div>
 
-**Databases & ORM**
+### Databases & ORM
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,redis,prisma,mongoose" alt="Database Skills"/>
 </div>
 
-**Languages**
+### Languages
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,bash" alt="Programming Languages"/>
 </div>
 
-**Frontend**
+### Frontend
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwindcss,antdesign" alt="Frontend Skills"/>
 </div>
 
-**Backend & APIs**
+### Backend & APIs
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,fastapi,graphql,rabbitmq,kafka" alt="Backend Skills"/>
@@ -52,18 +63,20 @@ I thrive on building systems that scale, perform under pressure, and enable busi
 
 ---
 
-### Featured Projects
+## Featured Projects
 
-**[Sheba.xyz](https://shebaxyz.vercel.app/)** – Full-Stack Marketplace Platform  
-[Live Site](https://shebaxyz.vercel.app/) • [Client](https://github.com/nayem9b/sheba-client) • [Server](https://github.com/nayem9b/sheba-server) • [DevOps](https://github.com/nayem9b/sheba-CD) 
+### Sheba.xyz - Full Stack Marketplace Platform
+
+[Live Site](https://shebaxyz.vercel.app/) | [Client Repository](https://github.com/nayem9b/sheba.xyz-frontend) | [Server Repository](https://github.com/nayem9b/sheba.xyz-backend) | [DevOps Repository](https://github.com/nayem9b/sheba-CD)
 _Next.js, TypeScript, PostgreSQL, FastAPI, GraphQL, Kafka, Redis, Docker, Kubernetes, ArgoCD, Prometheus, Grafana_
 
 - Built full-stack marketplace with service listings, order and user management, reviews, and 3-tier RBAC using Next.js/Redux frontend, microservices architecture with Kafka event streaming, GraphQL Auth API, FastAPI Payment service, Redis caching, and multi-layer validation protecting data integrity
 - Engineered GitOps CI/CD with branch-gated workflows, OWASP compliance checks (Trivy, Fscan), GitHub Actions building artifacts to DockerHub, ArgoCD OIDC Dex auth deploying to EKS, and Terraform IaC managing AWS infrastructure with DynamoDB state locking
 - Deployed observability stack: Prometheus/Grafana dashboards monitoring API latency and health metrics with Slack alerting, ELK Stack centralizing server and system logs, ArgoCD Grafana integration for production deployment oversight
 
-**[Bookify](https://bookify-marketplace.vercel.app/)** – Production-Grade Marketplace  
-[Live Site](https://bookify-marketplace.vercel.app/) • [Client](https://github.com/nayem9b/bookify-client) • [Server](https://github.com/nayem9b/bookify-server)  • [DevOps](https://github.com/nayem9b/bookifyCD.git)  
+### Bookify - Production Grade Marketplace
+
+[Live Site](https://bookify-clientside.vercel.app/) | [Client Repository](https://github.com/nayem9b/bookify-client) | [Server Repository](https://github.com/nayem9b/bookify-server) | [DevOps Repository](https://github.com/nayem9b/bookifyCD.git)  
 _TypeScript, Next.js, Node.js, NextAuth, Redux Toolkit, MongoDB, Docker, GitHub Actions, ArgoCD, Kubernetes (EKS), Terraform, Prometheus, Grafana_
 
 - Built production-grade marketplaces using Next.js and Redux with secure authentication (NextAuth), dynamic catalogs, cart persistence, and 3-tier RBAC, optimized via SSR/SSG reducing initial load time by 1.8s
@@ -72,7 +85,7 @@ _TypeScript, Next.js, Node.js, NextAuth, Redux Toolkit, MongoDB, Docker, GitHub 
 
 ---
 
-### GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nayem9b&show_icons=true&theme=highcontrast" height="180"/>
@@ -85,7 +98,7 @@ _TypeScript, Next.js, Node.js, NextAuth, Redux Toolkit, MongoDB, Docker, GitHub 
 
 ---
 
-### Connect with Me
+## Connect
 
 <div align="center">
   <a href="mailto:razwanniam1@gmail.com">
