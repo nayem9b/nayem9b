@@ -1,3 +1,5 @@
+[](https://i.imgur.com/tpSt5BW.png)
+
 <h1 align="center">Full Stack | Cloud DevOps | System Design</h1>
 
 <h3 align="center">Embedded systems to full stack applications, scaling into cloud-native DevOps</h3>
