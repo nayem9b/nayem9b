@@ -65,7 +65,7 @@ Experienced engineer building scalable systems with modern infrastructure practi
 
 ## Featured Projects
 
-### Sheba.xyz - Full Stack Marketplace Platform
+### Sheba.xyz - Full Stack Production Grade Marketplace Platform
 
 [Live Site](https://shebaxyz.vercel.app/) | [Client Repository](https://github.com/nayem9b/sheba.xyz-frontend) | [Server Repository](https://github.com/nayem9b/sheba.xyz-backend) | [DevOps Repository](https://github.com/nayem9b/sheba-CD)
 _Next.js, TypeScript, PostgreSQL, FastAPI, GraphQL, Kafka, Redis, Docker, Kubernetes, ArgoCD, Prometheus, Grafana_
